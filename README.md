@@ -2,8 +2,8 @@
 Retrieve all Boundary Groups and Boundary Group Site Systems for the specified device
 
 Note: 
-     Executable must be run with Administrative privilages
-     Run the executable on the CAS or Top level Primary Site Server
+     * Executable must be run with Administrative privilages
+     * Run the executable on the CAS or Top level Primary Site Server
 
 * Version: 1.0
 * Author: Joseph Hopper
