@@ -5,9 +5,9 @@ Note:
      Executable must be run with Administrative privilages
      Run the executable on the CAS or Top level Primary Site Server
 
-*Version: 1.0
-*Author: Joseph Hopper
-*Creation Date: 3/17/2021
+* Version: 1.0
+* Author: Joseph Hopper
+* Creation Date: 3/17/2021
 
 **Disclaimer**
 This executable and it's scripts are not supported under any Microsoft standard support program or service.
